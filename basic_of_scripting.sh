@@ -21,3 +21,4 @@ read username
 
 echo "Username is : $username"
 
+echo "Username is $0, $1, $2"
